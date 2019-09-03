@@ -633,7 +633,7 @@ li>a:only-child:after {
 .domain
 {
     
-    margin-left: 3%;
+    margin-left: 5%;
 }
 .btn {
     border: 2px solid #fff;
@@ -774,6 +774,11 @@ li>a:only-child:after {
 
 /* //background images for banner */
 
+h6.counter
+{
+    color: #fff;
+
+}
 /* /stats */
 h5.counter {
     color: #fff;
