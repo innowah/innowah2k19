@@ -1419,10 +1419,13 @@ h4.title-hny {
 .contacts{
     margin-top: 3px;
 }
+#about{
+    background-color: white; 
+}
 .single-page-form {}
 
 /*--//single --*/
-/*--//contact-- */
+/*--//c #30afba ontact-- */
 /*--//inner-w3pvt-page-- */
 /*--/timeline--*/
 /* Media Queries */
