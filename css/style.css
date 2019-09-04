@@ -772,8 +772,12 @@ li>a:only-child:after {
     transform: translate(-50%, 100%);
 }
 
-/* //background images for banner */
 
+/* //background images for banner */
+h5.ins
+{
+    margin-bottom: 10px;
+}
 h6.counter
 {
     color: #fff;
@@ -796,7 +800,9 @@ h4.counter {
     text-align: center;
     
 }
-
+#contact{
+    margin-top: 1px;
+}
 p.para-w3pvt {
     color: #fff;
     font-size: 1.4em;
