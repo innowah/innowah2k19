@@ -800,9 +800,7 @@ h4.counter {
     text-align: center;
     
 }
-#contact{
-    margin-top: 3px;
-}
+
 p.para-w3pvt {
     color: #fff;
     font-size: 1.4em;
@@ -1418,7 +1416,9 @@ h4.title-hny {
 .comments-grid-right ul li a {
     color: #feac00;
 }
-
+.contacts{
+    margin-top: 3px;
+}
 .single-page-form {}
 
 /*--//single --*/
